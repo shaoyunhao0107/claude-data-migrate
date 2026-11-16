@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 脚本本地产出
+discover.json
+session-titles.json
+projects-index.json
+path-map.json
+MANIFEST.json
+SHA256SUMS.txt
+SECRETS/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
